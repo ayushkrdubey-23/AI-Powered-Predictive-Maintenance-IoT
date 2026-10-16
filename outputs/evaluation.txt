@@ -1,0 +1,19 @@
+SYNTHETIC / SIMULATED DATA
+
+Accuracy: 0.6950
+Precision: 0.4762
+Recall: 0.4274
+
+              precision    recall  f1-score   support
+
+           0       0.77      0.81      0.79       283
+           1       0.48      0.43      0.45       117
+
+    accuracy                           0.69       400
+   macro avg       0.62      0.62      0.62       400
+weighted avg       0.69      0.69      0.69       400
+
+
+Confusion Matrix:
+[[228  55]
+ [ 67  50]]
